@@ -151,7 +151,7 @@ h2 em,.hero-title em{font-family:var(--serif);font-style:italic;font-weight:400;
 .hero-meta > div{display:flex;flex-direction:column;gap:.3rem}
 .hero-meta span,.team-lbl{font-size:.68rem;color:var(--ink-soft);text-transform:uppercase;letter-spacing:.16em;font-weight:600}
 .hero-meta b{font-size:.98rem;font-weight:600}
-.team{display:flex;flex-wrap:wrap;align-items:center;gap:.55rem;max-width:52rem}
+.team{display:flex;flex-wrap:wrap;align-items:center;gap:.55rem;max-width:66rem}
 .team-lbl{margin-right:.4rem}
 .team span.p{
   padding:.5rem .95rem;border-radius:999px;border:1px solid var(--line-2);

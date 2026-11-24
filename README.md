@@ -1,6 +1,6 @@
 # Ayetlerin Sofrası
 
-Kur’an-ı Kerim’de geçen yiyecekler: ayetler, izahları ve sağlığa faydaları.
+Kur’an-ı Kerim’de geçen yiyecekler: Ayetler, izahları ve sağlığa faydaları.
 Şehit Sefer Alan Anadolu Lisesi 9/F · Peygamberimizin Hayatı dersi sunumu · 25 Kasım 2026.
 
 - Canlı: https://drferhatu.github.io/ssa-sunum/
